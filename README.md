@@ -1,7 +1,7 @@
-client.command()
+client.command(?help)
 async def displayedmbed():
    embed = discord.Embed(
-    title = '',
+    title = '<:00:985434372050133002> **LIST OF COMMANDS !**',
     description = 'This is a description.',
     colour = discord.Colour.blue()
    )
